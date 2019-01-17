@@ -21,7 +21,7 @@ en:
     attributes:
       user:
         accepted_terms: "Terms and Conditions"
-  bigbluebutton: BigBlueButton
+  bigbluebutton: Lernant
   bigbluebutton_exception: Oops, there was an error when starting the meeting!
   cancel: Cancel
   copy: Copy
@@ -39,10 +39,10 @@ en:
       contact_admin: If you are not an administrator, please contact one.
       continue: I'd like to stay using 1.0.
       notice: >
-        Greenlight encountered a database migration error.<br>
-        This may be because you haven't updated to Greenlight 2.0.
+        Lernant encountered a database migration error.<br>
+        This may be because you haven't updated to Lernant 2.0.
       upgrade: Show me how to upgrade to 2.0!
-      version: We've released a new version of Greenlight, but your database isn't compatible.
+      version: We've released a new version of Lernant, but your database isn't compatible.
     not_found:
       message: Whoops! Looks like we can't find that.
       help: Is it possible its been removed?
@@ -64,7 +64,7 @@ en:
     email: Email
     submit: Submit
   go_back: Go back
-  greenlight: Greenlight
+  greenlight: Lernant
   header:
     create_room: Create Room
     dropdown:
@@ -78,11 +78,11 @@ en:
   invalid_login_method: Login failed due to account mismatch. You need to log in with omniauth.
   invite_message: "To invite someone to the meeting, send them this link:"
   landing:
-    about: "%{href} is a simple front-end for your BigBlueButton open-source web conferencing server. You can create your own rooms to host sessions, or join others using a short and convenient link."
-    welcome: Welcome to BigBlueButton.
-    video: Watch our tutorial on using Greenlight
+    about: "%{href} is the front-end for your Lernant web conferencing server. You can create your own rooms to host sessions, or join others using a short and convenient link."
+    welcome: Welcome to Lernant.
+    video: Watch our tutorial on using Lernant
     upgrade: Show me how to upgrade to 2.0!
-    version: We've released a new version of Greenlight, but your database isn't compatible.
+    version: We've released a new version of Lernant, but your database isn't compatible.
   language_options:
     default: Default (browser language)
     ar: Arabic
@@ -183,7 +183,7 @@ en:
       title: Delete Account
     design:
       not_supported: Customization not currently supported.
-      subtitle: Customize Greenlight
+      subtitle: Customize Lernant
       title: Design
     password:
       confirmation: New Password Confirmation
