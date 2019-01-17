@@ -17,7 +17,7 @@
 # Spanish (es) locale.
 
 es:
-  bigbluebutton: BigBlueButton
+  bigbluebutton: Lernant
   cancel: Cancelar
   copy: Copiar
   delete: Eliminar
@@ -32,9 +32,9 @@ es:
       contact_admin: "Sí tu no eres administrador, contacta a uno."
       continue: Me gustaría seguir utilizando la versión 1.0
       notice: >
-        Greenlight encontro un error al migrar la base de datos. <br>Esto puede deberse a que no hás actualizado a Greenlight versión 2.0
-      upgrade: Muestrame como actualizar a la verisión 2.0
-      version: Hemos publicado una nueva version de Greenlight pero tu base de datos no es compatible.
+        Lernant encontro un error al migrar la base de datos. <br>Esto puede deberse a que no hás actualizado a Lernant versión 2.0
+      upgrade: Muestrame como actualizar a la versión 2.0
+      version: Hemos publicado una nueva version de Lernant pero tu base de datos no es compatible.
     not_found:
       message: Ups! parece que no podemos encontrarle
       help: "¿Puede ser que haya sido eliminada?"
@@ -51,7 +51,7 @@ es:
   footer:
     powered_by: "Funciona con %{href}"
   go_back: Atrás
-  greenlight: Greenlight
+  greenlight: Lernant
   header:
     create_room: Creat sala
     dropdown:
@@ -64,11 +64,11 @@ es:
   invalid_credentials: El ingreso falló debido al uso incorrecto de clave de acceso. Estás seguro de haberla introduciso corréctamente.
   invite_message: "Para invitar a alquien a la sesión, enviale este enlace:"
   landing:
-    about: "Greenlight es una interface web para tu servidor %{href}de conferencias de fuentes libres. Puedes crear tus propias salas y ser anfitrión de sesiones o ingresar a las de otros utilizando un corto y conveniente enlace."
-    welcome: Bienvenido a <span class="green-grad">Greenlight</span>.
-    video: Ve nuestro tutorial de como utilizar Greenlight
+    about: "Lernant es una interface web para videoconferencias . Puedes crear tus propias salas y ser anfitrión de sesiones o ingresar a las de otros utilizando un corto y conveniente enlace."
+    welcome: Bienvenido a <span class="green-grad">Lernant</span>.
+    video: Ve nuestro tutorial de como utilizar Lernant
     upgrade: Muestrame como actualizar a versión 2.0
-    version: Hemos publicado una nueva version de Greenlight pero tu base de datos no es compatible.
+    version: Hemos publicado una nueva version de Lernant pero tu base de datos no es compatible.
   language_options:
     default: Por omisión (idioma del navegador)
     ar: Árabe
@@ -139,13 +139,13 @@ es:
       subtitle: Actualizar información de usuario
       title: Información de la cuenta
     delete:
-      button: "Si, me gustaría eleiminar mi cuenta de usuario."
+      button: "Si, me gustaría eliminar mi cuenta de usuario."
       disclaimer: "Sí elijes eliminar tu cuenta de usuario, <b>NO</b> podrá ser recuperada. Toda la información relacionada con tu cuenta, incluyendo configuración, salas y grabaciones, será eliminada."
       subtitle: Eliminar la cuenta de forma permanente
       title: Eliminar cuenta
     design:
       not_supported: Personalización no es soportada actualmente
-      subtitle: Personalizar Greenlight
+      subtitle: Personalizar Lernant
       title: Diseño
     password:
       confirmation: Confirmación de contraseña nueva
