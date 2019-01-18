@@ -26,7 +26,7 @@ es:
   enter_your_name: Introduce tu nombre
   errors:
     internal:
-      message: Oh no! Parece que algo falló de tu lado.
+      message: Oh no! Parece que algo falló en tu navegador.
       help: "El error ha sido registrado, vamos a revisarlo."
     migration_error:
       contact_admin: "Sí tu no eres administrador, contacta a uno."
@@ -49,7 +49,7 @@ es:
     designs: Diseño personalizado
     authentication: Autentificación de usuario
   footer:
-    powered_by: "Funciona con %{href}"
+    powered_by: "Funciona con Lernant WebConference v2.0"
   go_back: Atrás
   greenlight: Lernant
   header:
@@ -66,7 +66,7 @@ es:
   landing:
     about: "Lernant es una interface web para videoconferencias . Puedes crear tus propias salas y ser anfitrión de sesiones o ingresar a las de otros utilizando un corto y conveniente enlace."
     welcome: Bienvenido a <span class="green-grad">Lernant</span>.
-    video: Ve nuestro tutorial de como utilizar Lernant
+    video: 
     upgrade: Muestrame como actualizar a versión 2.0
     version: Hemos publicado una nueva version de Lernant pero tu base de datos no es compatible.
   language_options:
@@ -163,5 +163,5 @@ es:
     accept: Accepto los términos y condiciones
     title: Términos y condiciones
   test_install: >
-    Esta instalación esta haciendo uso del servidor para pruebas que viene pre-configurado. Debería ser substituido con tu propio servidor. Para más detalles vea %{href}.
+    Esta instalación esta haciendo uso del servidor para pruebas que viene pre-configurado. Debería ser substituido con tu propio servidor.
   update: Actualizar
