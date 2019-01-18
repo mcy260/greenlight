@@ -49,7 +49,7 @@ es:
     designs: Diseño personalizado
     authentication: Autentificación de usuario
   footer:
-    powered_by: "Funciona con Lernant WebConference v2.0"
+    powered_by: "Funciona con Lernant WebConference "
   go_back: Atrás
   greenlight: Lernant
   header:
@@ -64,9 +64,9 @@ es:
   invalid_credentials: El ingreso falló debido al uso incorrecto de clave de acceso. Estás seguro de haberla introduciso corréctamente.
   invite_message: "Para invitar a alquien a la sesión, enviale este enlace:"
   landing:
-    about: "Lernant es una interface web para videoconferencias . Puedes crear tus propias salas y ser anfitrión de sesiones o ingresar a las de otros utilizando un corto y conveniente enlace."
+    about: "Lernant WebConference es la interface web para videoconferencias de e-learning. Puedes crear tus propias salas y ser anfitrión de sesiones o ingresar a las de otros utilizando un corto y conveniente enlace."
     welcome: Bienvenido a <span class="green-grad">Lernant</span>.
-    video: 
+    video:
     upgrade: Muestrame como actualizar a versión 2.0
     version: Hemos publicado una nueva version de Lernant pero tu base de datos no es compatible.
   language_options:
